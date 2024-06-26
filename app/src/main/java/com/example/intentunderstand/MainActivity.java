@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 nextActivity= new Intent(getApplicationContext(),SecondActivity.class);
+                nextActivity.putExtra("title","Home");
+                nextActivity.putExtra("name","Naimur Rahman");
+                nextActivity.putExtra("rollNumber",10);
+
                 startActivity(nextActivity);
 
             }
