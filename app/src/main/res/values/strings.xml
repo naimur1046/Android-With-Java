@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreenLearn</string>
+    <string name="welcome_to_the_splash_activity">Welcome to the Splash Activity</string>
+    <string name="button_text">Button Text</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="welcome_to_main_layout">Welcome to Main Layout</string>
+</resources>
