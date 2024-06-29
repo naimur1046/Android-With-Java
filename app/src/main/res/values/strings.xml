@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="number">Number</string>
+    <string name="image_of_contact">Image of Contact</string>
+</resources>
