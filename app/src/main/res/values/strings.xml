@@ -5,4 +5,10 @@
     <string name="subtitle">Subtitle</string>
     <string name="number">Number</string>
     <string name="image_of_contact">Image of Contact</string>
+    <string name="add_new">Add New</string>
+    <string name="this_is_image_updation">This is Image Updation</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="name">Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="submit_data">Submit Data</string>
 </resources>
