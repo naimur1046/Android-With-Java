@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomTollbar</string>
+    <string name="apps_features">Apps Features</string>
+    <string name="newFeature">New</string>
+</resources>

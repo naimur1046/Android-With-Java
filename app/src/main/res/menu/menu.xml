@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item android:id="@+id/optionNew"
+        android:title="New"
+        android:icon="@drawable/baseline_open_in_new_24"
+        app:showAsAction="ifRoom"
+
+       />
+    <item android:id="@+id/optOpen"
+        android:title="Open"
+        android:icon="@drawable/baseline_lock_open_24"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/optSave"
+        android:title="Save"
+        android:icon="@drawable/baseline_save_24"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
