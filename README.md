@@ -6,8 +6,8 @@
 
 > Android Interview Questions and Answers - Your Cheat Sheet For Android Interview
 
-### Prepared and maintained by [Naimur Rahman]
-
+### Prepared and maintained by [Amit Sarkar] and Updated by [Naimur Rahman]
+ 
 ## Contents - Android Interview Questions
 
 * [Android Interview Questions and Answers Playlist](#android-interview-questions-and-answers-playlist)
