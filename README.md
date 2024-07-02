@@ -9,13 +9,6 @@
 ### Prepared and maintained by [Naimur Rahman]
 
 
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
 ## **Join my program and get high paying tech job: [amitshekhar.me](https://amitshekhar.me)**
 
 ## Contents - Android Interview Questions
