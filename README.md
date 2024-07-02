@@ -8,9 +8,6 @@
 
 ### Prepared and maintained by [Naimur Rahman]
 
-
-## **Join my program and get high paying tech job: [amitshekhar.me](https://amitshekhar.me)**
-
 ## Contents - Android Interview Questions
 
 * [Android Interview Questions and Answers Playlist](#android-interview-questions-and-answers-playlist)
