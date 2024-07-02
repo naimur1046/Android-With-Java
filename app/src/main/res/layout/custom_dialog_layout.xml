@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#EBD61F"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/imageForDialog"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/baseline_cloud_download_24"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4679F8"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Success"
+            android:textStyle="bold"
+            android:textSize="34sp"
+            android:textColor="#ffff"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your order has been placed"
+            android:textSize="25sp"
+            android:textColor="#ffff"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
