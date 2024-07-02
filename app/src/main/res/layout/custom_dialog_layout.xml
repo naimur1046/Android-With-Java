@@ -41,6 +41,23 @@
             android:gravity="center"
             android:layout_margin="10dp"
             />
+        <Button
+            android:id="@+id/btnOkDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="OK"
+            android:backgroundTint="#FFEB3B"
+            android:textColor="#4679F8"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="15dp"
+            android:shadowRadius="@integer/material_motion_duration_long_1"
+            />
+
 
     </LinearLayout>
 

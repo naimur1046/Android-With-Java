@@ -14,6 +14,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity extends AppCompatActivity {
 
     Button showDialogBox;
+    Button btnOk;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +32,14 @@ public class MainActivity extends AppCompatActivity {
                        dialog.setContentView(R.layout.custom_dialog_layout);
                        dialog.show();
 
+
+                       btnOk = dialog.findViewById(R.id.btnOkDialog);
+                       btnOk.setOnClickListener(new View.OnClickListener() {
+                           @Override
+                           public void onClick(View view) {
+                             dialog.dismiss();
+                           }
+                       });
 
                     }
                 }
