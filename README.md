@@ -1,6 +1,4 @@
-<p align="center">
-    <img alt="Android Interview Questions" src="https://raw.githubusercontent.com/amitshekhariitbhu/android-interview-questions/master/assets/banner-android-interview-questions.jpg">
-</p>
+
 
 # Android Interview Questions and Answers
 
